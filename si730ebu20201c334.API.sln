@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "si730ebu20201c334.API", "si730ebu20201c334.API\si730ebu20201c334.API.csproj", "{A0330BB3-D45D-4184-B2B9-BE8FFAAFCF43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0330BB3-D45D-4184-B2B9-BE8FFAAFCF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0330BB3-D45D-4184-B2B9-BE8FFAAFCF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0330BB3-D45D-4184-B2B9-BE8FFAAFCF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0330BB3-D45D-4184-B2B9-BE8FFAAFCF43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

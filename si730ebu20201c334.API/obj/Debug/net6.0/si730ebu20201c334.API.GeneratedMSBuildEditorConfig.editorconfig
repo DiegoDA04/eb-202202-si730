@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = si730ebu20201c334.API
+build_property.RootNamespace = si730ebu20201c334.API
+build_property.ProjectDir = D:\CURSOS DE CARRERA\CICLO 5\APLICACIONES WEB\development\upc-pre-202202-si730-ws52-eb-u20201c334\si730ebu20201c334.API\si730ebu20201c334.API\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\CURSOS DE CARRERA\CICLO 5\APLICACIONES WEB\development\upc-pre-202202-si730-ws52-eb-u20201c334\si730ebu20201c334.API\si730ebu20201c334.API
+build_property._RazorSourceGeneratorDebug = 
